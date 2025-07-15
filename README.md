@@ -53,3 +53,4 @@ The system demonstrates professional-grade home automation with smooth animation
 
 #OUTPUT
 <img width="1029" height="552" alt="Image" src="https://github.com/user-attachments/assets/02433db2-d012-43bf-8573-726ec93a650f" />
+<img width="990" height="559" alt="Image" src="https://github.com/user-attachments/assets/f9fbb90c-2765-4ddc-80d8-ec72b7168340" />
