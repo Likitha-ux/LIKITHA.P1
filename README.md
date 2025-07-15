@@ -52,3 +52,4 @@ Working Demo: Fully functional web interface simulating the mobile app experienc
 The system demonstrates professional-grade home automation with smooth animations, intuitive controls, and comprehensive documentation. You can toggle between the control panel, circuit diagram, and code sections to see all aspects of the implementation.
 
 #OUTPUT
+<img width="1029" height="552" alt="Image" src="https://github.com/user-attachments/assets/02433db2-d012-43bf-8573-726ec93a650f" />
